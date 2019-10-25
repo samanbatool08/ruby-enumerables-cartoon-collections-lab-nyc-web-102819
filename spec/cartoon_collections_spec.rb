@@ -12,3 +12,4 @@ end
 
 summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
 
+def long_planeteer_calls(calls)
