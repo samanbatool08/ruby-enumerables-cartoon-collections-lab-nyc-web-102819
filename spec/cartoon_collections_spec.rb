@@ -13,3 +13,6 @@ end
 summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
 
 def long_planeteer_calls(calls)
+    calls.any? { |i| i.length > 4 }
+end
+
