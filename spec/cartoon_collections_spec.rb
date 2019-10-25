@@ -17,3 +17,5 @@ def long_planeteer_calls(calls)
 end
 
 long_planeteer_calls(["puff", "go", "two"])
+
+def find_the_cheese(array)
